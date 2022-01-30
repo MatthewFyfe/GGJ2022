@@ -1,0 +1,86 @@
+GameJam 20222
+
+theme: duality
+
+ideas:
+
+Playtime = 15-20 minutes
+
+Karma - light and dark side of action board. Each is +2/-1 net value. If you pick a Light action another player gets to pick your Dark action and vice versa.
+
+Use dice/cards/poker chips to keep basic board game assembly easy. Make action board.
+
+Try to think of 4 actions per side?
+
+Goal / winning: Have the most points. (first to 10?)
+How to get points: Play poker hands. Play Actions that give points. Gather dice sets.
+
+Each turn you pick a Karmic partner and choose an action. Payments go to partner. Track partner ala Catlantis with tokens, have to pick each person once then reset.
+
+Start with 3 cards, 3 die, 3 chits each. Play cards on your turn, once placed they stay down. Roll dice immediately when received, they stay in play. Only hidden info is unplayed cards.
+
+Points: 
+  Poker hand - pair = 1 + 1 per extra
+  Short Run (2) = 1 + 1 per extra
+  Short Flush (3) = 1 + 1 per extra  XXX
+  Dice set (2) = 1 + 1 per extra
+
+
+Light Actions:
+  Draw 2 Card / Give 1 die    = 1-strong, 2-middle
+  Gain 1 Coin / Give 2 Chit    = 1-strong, 2-weak
+  Roll 2 die / Give 1 card    = 1-strong, 2-middle
+  Draw 1 Card + Roll 1 Die / Give 1 Chit    = 1-strong, 2-weak
+
+Dark Actions:
+  Steal 2 Card / Give 1 card+chit to player   = 1-strong, 2-weak
+  Steal 3 Chit / They roll 1 die    = 1-weak, 2-strong
+  Swap 1 die + draw 1 card / Pay 1 Card    = 1-middle, 2-middle
+  Swap 1 card + roll 1 die / Pay 1 die    = 1-middle, 2-middle
+
+
+
+
+Card Odds Math:
+  Given flush A, useful card drawn: ~13/52
+  Given straight X, useful card drawn: ~8/52
+  Given pair Y, useful card drawn: ~3/52
+
+  total use: 24/52
+  total use no flush: 11/52
+
+Dice Odds Math:
+  Given set A, useful die rolled: 1/6
+
+
+
+
+Balance Notes:
+  -chits seem weak / useless so far
+  -no flush seems to fix card/die balance
+  -first player seems to have advantage... play our end of round seems to help
+
+Test 1:
+  - Kovolta went first, 0-1 initial score. Matt won. Close game with some back and forth and could have gone either way with luck. Steal 2 / Give 1 card action seemed strongest with no real penalty on light side. Generally good review.
+
+Test 2:
+  - What if karmic partner was always player to left?
+  - What if restricted to one side (light or dark)?
+  - try to simplify new player experience
+  - Time to play seems to be 10 mins per player
+  - Mike had early lead, ended in tie game with Matt
+
+
+  Need turn token (active player)
+
+Solo Tests:
+  - Randy random can beat me sometimes
+
+
+Test 3:
+  - Dumping chits seemed strong, and forces unfun forced choice Dark 2
+  - Duration felt reasonable
+  - 
+
+Workshop Update code
+  2737276475

@@ -1,4 +1,4 @@
-# GGJ2022
+# GGJ2022 - Karmic Collections
 Global Game Jam 2022. Theme: Duality. Game: Karmic Collections
 
 A worker placement board game with a twist! 
